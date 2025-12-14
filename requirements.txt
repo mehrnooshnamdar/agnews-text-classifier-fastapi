@@ -1,0 +1,17 @@
+torch
+transformers
+datasets
+accelerate
+evaluate
+scikit-learn
+numpy
+pandas
+matplotlib
+
+fastapi
+uvicorn[standard]
+pydantic
+
+pytest
+ruff
+black
